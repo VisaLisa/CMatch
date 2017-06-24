@@ -1,7 +1,7 @@
 # Outlook_suggestion
 Microsoft Graph API
 
-At Global AI Hackathon on June 23 - 25, 2017. 
+At Global AI Hackathon on June 23 - 25, 2017.
 
 The goal of the project is to use Microsoft Graph API to build a Outlook features
 * Suggesting email recipients
@@ -9,3 +9,5 @@ The goal of the project is to use Microsoft Graph API to build a Outlook feature
 * Scheduling meeting times that work for anyone
 * Reccomended snacks
 * Finding potential collaborators based on document content
+
+Who is this feature aim at: Microsoft Enterprise user
